@@ -1,0 +1,22 @@
+*{
+	margin: 0px;
+	padding: 0px;
+
+}
+
+.container{
+	width: 80%;
+	background-color: rgb(198, 152, 241);
+	padding: 30px;
+	margin: auto;
+}
+.container h3, p{
+	text-align: center;
+}
+input, textarea{
+	width: 80%;
+	margin: 12px;
+	padding: 10px;
+	font-size: 14px;
+	display: block;
+}
